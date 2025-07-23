@@ -10,8 +10,8 @@ Designed to be extendable with additional agents and logic
 Beginner-friendly codebase
 
 
-project/
- main.py # Main entry point for the agent
+project
+main.py # Main entry point for the agent
 env # Stores your API key
 requirements.txt # Python dependencies
 README.md # This file
