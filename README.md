@@ -1,4 +1,4 @@
-# AI-AGENT-OPENAI
+#🤖 AI-AGENT-OPENAI
 This project is a beginner-friendly command-line AI assistant built using OpenAI
 
 
@@ -11,7 +11,7 @@ Beginner-friendly codebase
 
 
 project/
-├── main.py # Main entry point for the agent
-├── .env # Stores your API key
-├── requirements.txt # Python dependencies
-└── README.md # This file
+ main.py # Main entry point for the agent
+env # Stores your API key
+requirements.txt # Python dependencies
+README.md # This file
